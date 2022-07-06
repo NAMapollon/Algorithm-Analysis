@@ -51,21 +51,3 @@ b=2345678923456789
 
 print("(2)", prod2(a,b)) # use function prod2.
 print(a*b) # ordinary multiplication method.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
