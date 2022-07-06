@@ -40,8 +40,3 @@ printMatrix(d) # d is a matrix, which shows the cost.
 print()
 printMatrix(p) # p is a matrix,which shows the path that the nodes pass through.
 path(p,5,3) # show the nodes between node 5 and 3,which represents the shortest path.
-
-
-
-
-
