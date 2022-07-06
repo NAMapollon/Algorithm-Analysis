@@ -59,5 +59,3 @@ n = 7
 col = n*[0]
 queens(n, -1, col)
 print("The number of solutions :", count) # show the solutions of queens problem.
-
-
